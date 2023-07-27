@@ -6,8 +6,3 @@ Contoh beberapa extensi VS Code yang di butuhkan para programmer
 4. Live Server
 5. Open and Default Browser
 6. Open with Live Server
-7. Bracket Pair Colorizer
-8. Snippets
-9. Better Comments
-10. Markdown All in One
-11. Profile Switcher
